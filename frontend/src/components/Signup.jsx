@@ -59,7 +59,7 @@ style={inputStyle}
 
 <button 
   style={buttonStyle}
-  onClick={() => navigate("/skills")}
+  onClick={() => navigate("/")}
 >
 Create Account
 </button>
